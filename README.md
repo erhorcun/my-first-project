@@ -1,2 +1,2 @@
 # my-first-project
-my-first-project in GOit
+my-first-project
